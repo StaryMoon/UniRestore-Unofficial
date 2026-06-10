@@ -1,9 +1,8 @@
 ## Summary
 
-- 
+## Checklist
 
-## Reproduction status
-
-- [ ] This PR is code-only and does not claim benchmark reproduction.
-- [ ] I ran a smoke test.
-- [ ] I ran a benchmark and included exact commands / metrics.
+- [ ] I tested the changed code or documented why testing is not applicable.
+- [ ] I updated README / configs / docs when public behavior changed.
+- [ ] I did not commit datasets, checkpoints, generated outputs, or private files.
+- [ ] I kept paper-reported numbers separate from local experiment logs.

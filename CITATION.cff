@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original paper."
+title: "UniRestore: Unified Perceptual and Task-Oriented Image Restoration Model Using Diffusion Prior"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Minghao
+repository-code: "https://github.com/StaryMoon/UniRestore-Unofficial"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "UniRestore: Unified Perceptual and Task-Oriented Image Restoration Model Using Diffusion Prior"
+  authors:
+  - family-names: Chen
+    given-names: I-Hsiang
+  - family-names: Chen
+    given-names: Wei-Ting
+  - family-names: Liu
+    given-names: Yu-Wei
+  - family-names: Chiang
+    given-names: Yuan-Chun
+  - family-names: Kuo
+    given-names: Sy-Yen
+  - family-names: Yang
+    given-names: Ming-Hsuan
+  conference: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: 2025
+  url: "https://openaccess.thecvf.com/content/CVPR2025/html/Chen_UniRestore_Unified_Perceptual_and_Task-Oriented_Image_Restoration_Model_Using_Diffusion_CVPR_2025_paper.html"

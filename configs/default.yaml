@@ -1,0 +1,16 @@
+seed: 2026
+task: restoration
+model:
+  hidden_dim: 64
+  num_layers: 2
+  num_heads: 4
+  output_dim: 64
+train:
+  batch_size: 2
+  image_size: 64
+  learning_rate: 0.0002
+  steps: 1000
+paths:
+  data_root: data
+  checkpoint_dir: checkpoints
+  output_dir: outputs

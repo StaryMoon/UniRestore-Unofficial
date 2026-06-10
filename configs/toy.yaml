@@ -1,7 +1,0 @@
-seed: 2026
-kind: restoration
-embed_dim: 64
-batch_size: 2
-image_size: 64
-learning_rate: 0.0002
-steps: 1000

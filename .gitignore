@@ -11,3 +11,4 @@ runs/
 wandb/
 data/
 outputs/
+*.pyc
